@@ -1,1 +1,3 @@
-pip install --upgrade pip setuptools wheel
+# packages.txt
+libgl1-mesa-glx  # optional, for plotting
+ffmpeg            # optional, for video/audio
