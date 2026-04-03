@@ -90,5 +90,9 @@ Future Scope (Phase 2 Idea)
 Automation of complete insurance quote processing (Straight-Through Processing - STP)
 
 
+<img width="1914" height="1026" alt="image" src="https://github.com/user-attachments/assets/58360e66-6015-4b59-8bf5-a8a4f3e97afb" />
+
+
+
 Integration with existing insurance systems
 Real-time decision engines
